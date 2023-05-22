@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    width: px;
+    height: px;
+}
+
+th.cor,td.cor {
+    background-color: gray;
+    color: white;
+   
+}
+ 
+th, td {
+    border: 1px solid Black;
+    padding: 10px;
+    text-align: center;
+}
