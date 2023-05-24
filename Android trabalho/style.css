@@ -172,6 +172,10 @@ aside > h3 {
     margin: -10px -10px 0px -10px;
     border-radius: 10px 10px 0px 0px;}
 
+    aside > p {
+        padding: 15px;
+    }
+
 aside > ul {
     color: rgb(255, 255, 255);
     list-style-position: inside;
